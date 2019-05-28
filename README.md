@@ -80,41 +80,25 @@
 - [ ] [What happens when...](https://github.com/alex/what-happens-when)
 
 ### Mathematics
-- [ ] [Элементарная математика](http://www.ozon.ru/context/detail/id/8669872/) by Марк Сканави
-- [ ] [Краткий курс высшей математики](https://www.ozon.ru/context/detail/id/87959/) by Исидор Натансон
 
 #### Algebra
-- [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
 - [ ] [Введение в алгебру. В 3 частях. Часть 1. Основы алгебры](https://www.ozon.ru/context/detail/id/21839075/) by Алексей Кострикин
 - [ ] [Введение в алгебру. В 3 частях. Часть 2. Линейная алгебра](https://www.ozon.ru/context/detail/id/7631501/) by Алексей Кострикин
 - [ ] [Введение в алгебру. В 3 частях. Часть 3. Основные структуры алгебры](https://www.ozon.ru/context/detail/id/23944141/) by Алексей Кострикин
 - [ ] [Сборник задач по алгебре](https://www.ozon.ru/context/detail/id/34551868/) by Алексей Кострикин
-- [ ] [Курс высшей алгебры](https://www.ozon.ru/context/detail/id/17563348/) by Александр Курош
-- [ ] [Курс алгебры](https://www.ozon.ru/context/detail/id/138235365/) by Эрнест Винберг
 
 #### Mathematical analysis
-- [ ] [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Лев Кудрявцев
-  * [ ] [Том 1. Дифференциальное и интегральное исчисление функций одной переменной. Ряды](http://www.ozon.ru/context/detail/id/31485798/)
-  * [ ] [Том 2. Дифференциальное и интегральное исчисления функций многих переменных](http://www.ozon.ru/context/detail/id/5180174/)
-- [ ] [Курс математического анализа. Учебник. В 3 томах. Том 1](https://www.ozon.ru/context/detail/id/32151877/) by Лев Кудрявцев
-- [ ] [Курс математического анализа. В 2 книгах. Том 2. Книга 1. Учебник](https://www.ozon.ru/context/detail/id/135851706/) by Лев Кудрявцев
-- [ ] [Курс математического анализа. Том 2. В 2 книгах. Книга 2](https://www.ozon.ru/context/detail/id/135851707/) by Лев Кудрявцев
-- [ ] [Курс математического анализа. В 3 томах. Том 3. Учебник](https://www.ozon.ru/context/detail/id/139038567/) by Лев Кудрявцев
 - [ ] [Математический анализ. Часть 1](https://www.ozon.ru/context/detail/id/138552098/) by Владимир Зорич
 - [ ] [Математический анализ. Часть 2](https://www.ozon.ru/context/detail/id/33488939/) by Владимир Зорич
 - [ ] [Сборник задач и упражнений по математическому анализу. Учебное пособие](https://www.ozon.ru/context/detail/id/140170199/) by Демидович Борис Павлович
-- [ ] Курс дифференциального и интегрального исчисления в 3 томах by Grigorii Fichtenholz
-  * [ ] [Том 1](http://www.ozon.ru/context/detail/id/4577306/)
-  * [ ] [Том 2](http://www.ozon.ru/context/detail/id/4577307/)
-  * [ ] [Том 3](http://www.ozon.ru/context/detail/id/4577308/)
 
 #### Combinatorics 
 - [ ] [Комбинаторика](https://www.ozon.ru/context/detail/id/33498057/) by Наум Виленкин, Александр Виленкин
 
 #### Probability theory
-- [ ] [Задачи по теории вероятностей](https://www.ozon.ru/context/detail/id/3248945/) by Альберт Ширяев
-- [ ] [Курс теории вероятностей. Учебник](https://www.ozon.ru/context/detail/id/29205435/)
-- [ ] [Элементарное введение в теорию вероятностей](https://www.ozon.ru/context/detail/id/137286202/) by Борис Гнеденко, Александр Хинчин
+- [ ] [Introduction to Probability](https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X/) by АDimitri P. Bertsekas and John N. Tsitsiklis
+- [ ] [Probability through problems](https://www.amazon.com/Probability-Through-Problems-Problem-Mathematics/dp/038795063X/) by M. Capinski and T. Zastawniak
+- [ ] [Курс теории вероятностей. Учебник](https://www.ozon.ru/context/detail/id/29205435/) by Борис Гнеденко
 - [ ] [Сборник задач по теории вероятностей](https://www.ozon.ru/context/detail/id/4743257/) by Андрей Зубков, Борис Севастьянов, Владимир Чистяков
 
 #### Discrete mathematics
@@ -136,12 +120,6 @@
   * [x] [Part 4](https://medium.com/p/18fbe3ea9e49)
   * [x] [Part 5](https://medium.com/p/c70adc9cf56a)
   * [x] [Part 6](https://medium.com/p/db502830403)
-- [ ] [Функциональное программирование 2015](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRDR44HMNqDHYgrAOPp7QLr)
-  * [materials (slides, practice)](http://mit.spbau.ru/sewiki/index.php/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_2015)
-  * my notes:
-    - https://vk.com/home_kana?w=wall-135720595_256
-    - https://vk.com/home_kana?w=wall-135720595_258
-    - https://vk.com/home_kana?w=wall-135720595_260
 
 ### Other resources
 - [ ] [Some researches about languages](https://github.com/carp-lang/Carp/blob/master/docs/Research.md)
