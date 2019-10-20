@@ -86,6 +86,7 @@
 - [ ] [Введение в алгебру. В 3 частях. Часть 2. Линейная алгебра](https://www.ozon.ru/context/detail/id/7631501/) by Алексей Кострикин
 - [ ] [Введение в алгебру. В 3 частях. Часть 3. Основные структуры алгебры](https://www.ozon.ru/context/detail/id/23944141/) by Алексей Кострикин
 - [ ] [Сборник задач по алгебре](https://www.ozon.ru/context/detail/id/34551868/) by Алексей Кострикин
+- [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
 
 #### Mathematical analysis
 - [ ] [Математический анализ. Часть 1](https://www.ozon.ru/context/detail/id/138552098/) by Владимир Зорич
